@@ -1,4 +1,4 @@
-package com.example.demo.exception;
+package com.ecomerce.exception;
 
 
 import org.springframework.data.annotation.ReadOnlyProperty;

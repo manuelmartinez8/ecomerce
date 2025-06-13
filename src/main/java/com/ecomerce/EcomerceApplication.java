@@ -1,14 +1,14 @@
-package com.example.demo;
+package com.ecomerce;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoCrudApplication implements CommandLineRunner {
+public class EcomerceApplication implements CommandLineRunner {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoCrudApplication.class, args);
+		SpringApplication.run(EcomerceApplication.class, args);
 	}
 
 
